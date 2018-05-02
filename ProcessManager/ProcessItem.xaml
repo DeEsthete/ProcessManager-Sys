@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="ProcessManager.ProcessItem"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ProcessManager"
+             mc:Ignorable="d" 
+             d:DesignHeight="47.899" d:DesignWidth="774.79">
+    <Grid>
+        <TextBlock x:Name="idTextBlock" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="-1" VerticalAlignment="Top" Height="28" Width="62"/>
+        <TextBlock x:Name="nameTextBlock" HorizontalAlignment="Left" Margin="77,10,0,0" TextWrapping="Wrap" Text="null" VerticalAlignment="Top" Height="28" Width="688"/>
+    </Grid>
+</UserControl>

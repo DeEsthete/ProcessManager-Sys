@@ -1,0 +1,17 @@
+c:\users\павлове\source\repos\ProcessManager\ProcessManager\bin\Debug\ProcessManager.exe.config
+c:\users\павлове\source\repos\ProcessManager\ProcessManager\bin\Debug\ProcessManager.exe
+c:\users\павлове\source\repos\ProcessManager\ProcessManager\bin\Debug\ProcessManager.pdb
+c:\users\павлове\source\repos\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csprojResolveAssemblyReference.cache
+c:\users\павлове\source\repos\ProcessManager\ProcessManager\obj\Debug\MainWindow.g.cs
+c:\users\павлове\source\repos\ProcessManager\ProcessManager\obj\Debug\App.g.cs
+c:\users\павлове\source\repos\ProcessManager\ProcessManager\obj\Debug\ProcessManager_MarkupCompile.cache
+c:\users\павлове\source\repos\ProcessManager\ProcessManager\obj\Debug\ProcessManager_MarkupCompile.lref
+c:\users\павлове\source\repos\ProcessManager\ProcessManager\obj\Debug\MainWindow.baml
+c:\users\павлове\source\repos\ProcessManager\ProcessManager\obj\Debug\ProcessManager.g.resources
+c:\users\павлове\source\repos\ProcessManager\ProcessManager\obj\Debug\ProcessManager.Properties.Resources.resources
+c:\users\павлове\source\repos\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csproj.GenerateResource.cache
+c:\users\павлове\source\repos\ProcessManager\ProcessManager\obj\Debug\ProcessManager.csproj.CoreCompileInputs.cache
+c:\users\павлове\source\repos\ProcessManager\ProcessManager\obj\Debug\ProcessManager.exe
+c:\users\павлове\source\repos\ProcessManager\ProcessManager\obj\Debug\ProcessManager.pdb
+c:\users\павлове\source\repos\ProcessManager\ProcessManager\obj\Debug\ProcessItem.g.cs
+c:\users\павлове\source\repos\ProcessManager\ProcessManager\obj\Debug\ProcessItem.baml
